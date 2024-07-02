@@ -1,5 +1,5 @@
-<h1 align="center">hi, I'm aline :) </h1>
-<h3 align="center">a enthusiastic frontend developer</h3>
+<h1 align="center">hi there, I'm aline :) </h1>
+<h3 align="center">an enthusiastic frontend developer</h3>
 
 💻 i'm currently learning JavaScript <br>
 🔭 i'm working on building more projects for my resume <br>
