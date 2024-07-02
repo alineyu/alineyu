@@ -1,7 +1,9 @@
 <h1 align="center">👋 hi, I'm aline</h1>
 <h3 align="center">a enthusiastic frontend developer</h3>
 
-- 📫 how to reach me **alineyk08@gmail.com**
+🔭 i'm working on building more projects for my resume****
+🌱 i'm currently learning JavaScript 
+📫 how to reach me **alineyk08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
