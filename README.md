@@ -1,5 +1,5 @@
-<h1 align="center">hi 👋, I'm aline yukari</h1>
-<h3 align="center">a enthusiastic frontend developer from brazil!</h3>
+<h1 align="center">👋 hi, I'm aline</h1>
+<h3 align="center">a enthusiastic frontend developer</h3>
 
 - 📫 how to reach me **alineyk08@gmail.com**
 
