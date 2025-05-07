@@ -1,7 +1,7 @@
 <h1 align="center">hi there, I'm aline :) </h1>
 <h3 align="center">an enthusiastic frontend developer</h3>
 
-💻 i'm currently learning JavaScript <br>
+💻 i'm currently learning React <br>
 🔭 i'm working on building more projects for my resume <br>
 📫 how to reach me **alineyk08@gmail.com**
 
